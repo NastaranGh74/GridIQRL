@@ -1,5 +1,6 @@
 # GridIQRL
 GridIQRL: A Reinforcement Learning-Based Tool for Distribution Network Reconfiguration
+![image](https://github.com/NastaranGh74/GridIQRL/assets/85129387/99a9e8d4-ddbd-4910-804f-e891dad8a577)
 This is an RL-based tool for distribution network reconfiguration in power systems. The current version uses deep Q-learning and dueling deep Q-learning methods. To allow faster visualization of the results and use by non-AI experts, an interface has been added to the code.
 Distribution network reconfiguration is the process of changing power distribution line states while maintaining the radial structure of the network and supplying all loads to minimize network loss and optimize voltage profile. In general, the RL agent should make the best line switching decisions considering the following three constraints:
 Markup : 1. The network structure should remain radial
