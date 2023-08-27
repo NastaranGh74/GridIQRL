@@ -10,6 +10,6 @@ Distribution network reconfiguration is the process of changing power distributi
 
 3. The voltage accross the network should remain between 0.95 p.u. and 1.05 p.u.
 
-To prevent agent from taking detrimental actions in the system, action space is chosen in a way to fulfill constraints 1 and 2. This code has been tested with 33-, 119-, and 136-bus test systems. For more information please refer to our recently published papers: [A Comparative Study of Reinforcement Learning Algorithms for Distribution Network Reconfiguration With Deep Q-Learning-Based Action Sampling](https://ieeexplore.ieee.org/abstract/document/10040655)
+To prevent agent from taking detrimental actions in the system, action space is chosen in a way to fulfill constraints 1 and 2. This code has been tested with 33-, 119-, and 136-bus test systems.
 
 ![image](https://github.com/NastaranGh74/GridIQRL/assets/85129387/00193bf0-94bf-4840-b3d9-aec6c80fb382)
