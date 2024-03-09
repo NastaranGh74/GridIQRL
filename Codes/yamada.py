@@ -1,3 +1,9 @@
+###################################################################################################
+#This code is mainly adapted from Dakota Hawkins code: https://github.com/dakota-hawkins/yamada
+#with some changes to optimize memory efficiency and enhance performance.
+###################################################################################################
+
+
 import networkx as nx
 from collections import OrderedDict
 from sortedcontainers import SortedSet
